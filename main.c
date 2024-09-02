@@ -28,7 +28,7 @@ int main(){
 	fscanf(arquivoEntrada,"%d",&tamanhoAcervo);
 	printf("tamanho do acervo sera %d\n",tamanhoAcervo);
 	//aloca a struct musica com o tamanho do acervo
-	
+	printf("test");
 	while(1){
 	printf("\n============Menu=============\n");
 	printf("1.Inserir musicas no Spotyfom\n");
